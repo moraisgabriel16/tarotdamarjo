@@ -1,7 +1,8 @@
-# ARCANA — Jardim Solar
+# Tarot da Marjo
 
-Site estático em português com 22 Arcanos Maiores, atlas ilustrado, galeria e tiragens de 1 ou 3 cartas.
+Site estático responsivo com atlas dos 22 Arcanos Maiores, galeria, significados e tiragens simbólicas de 1 ou 3 cartas.
 
-Abra `index.html` ou publique o conteúdo da pasta na Vercel. Todas as imagens são locais.
+Instagram: https://www.instagram.com/tarotdamarjo/
+WhatsApp: https://wa.me/5511921824057
 
-Nota: as cartas foram recortadas do atlas gerado; como o atlas é uma única ilustração, pequenas diferenças de alinhamento e texto podem existir.
+Abra `index.html` ou publique todos os arquivos na raiz do projeto Vercel. Logo minimalista em `assets/logo.svg` e ícone em `assets/favicon.svg`.
